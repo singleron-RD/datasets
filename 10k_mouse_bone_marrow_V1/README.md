@@ -12,3 +12,5 @@
 
 
 # [View HTML report](https://singleron-rd.github.io/datasets/10k_mouse_bone_marrow_V1/mouse_bone_marrow_report.html)
+
+# [Download gene expression matrix](./mouse_bone_marrow_filtered_feature_bc_matrix.tar.gz)

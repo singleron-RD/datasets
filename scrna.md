@@ -1,3 +1,5 @@
+# scRNA
+
 ## Mouse-lung-1
 
 - Chemistry: GEXSCOPE-V3
@@ -11,5 +13,16 @@ https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/scrna/mouse-
 130M    ./filtered/matrix.mtx.gz
 ```
 
+## Mouse-testis-1
 
+- Chemistry: GEXSCOPE-V3
+- Estimated Number of Cells: 15k
+
+https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/scrna/mouse-testis-1/mouse_testis_v3_matrix_report.tar.gz
+```
+8.1M    ./mouse_testis_report.html
+680K    ./filtered/features.tsv.gz
+320K    ./filtered/barcodes.tsv.gz
+174M    ./filtered/matrix.mtx.gz
+```
 

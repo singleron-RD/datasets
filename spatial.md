@@ -1,6 +1,6 @@
 # Spatial
 
-## Mouse brain 1
+## Mouse-brain-1
 
 https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/spatial/mouse-brain-1/mouse-brain-1.tar.gz
 ```
@@ -13,3 +13,4 @@ https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/spatial/mous
 976K    ./spatial/tissue_lowres_image.png
 512K    ./spatial/tissue_positions.parquet
 ```
+

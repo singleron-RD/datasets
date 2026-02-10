@@ -1,4 +1,4 @@
-## FFPE single-nucleus RNA-Seq
+# FFPE single-nucleus RNA-Seq
 
 ## mouse-thymus-1
 

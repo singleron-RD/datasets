@@ -13,3 +13,5 @@
 - HTML report(7.6M): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/spatial/mouse-intestine-1/Mint_FFPE_96_96_1119_report.html
 
 - Matrix and image(100M): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/spatial/mouse-intestine-1/matrix_image.tar
+
+- Raw data(44G): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/spatial/mouse-intestine-1/raw.tar

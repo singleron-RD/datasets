@@ -1,6 +1,6 @@
 # MobiuSCOPE
 
-3' + 5' scRNA-Seq
+The [MobiuSCOPE](https://singleron.bio/products/mobiuscope-full-length-single-cell-rna-sequencing-kit/) single Cell RNA Sequencing Kit combines 3′ and 5′ RNA-seq approaches in one solution.
 
 https://github.com/singleron-RD/celescope-mobiu?tab=readme-ov-file
 

@@ -1,5 +1,6 @@
 # AccuraCode
-96 or 384 well RNA and V(D)J
+96 or 384 well bulk RNA and V(D)J
+https://singleron.bio/products/accuracode-rna-library-construction/
 
 ## human-PBMC-TCR-1
 
@@ -12,8 +13,5 @@
 - Chemistry: bulk_rna-V3
 - 8 wells
 
-https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/AccuraCode/mouse-spleen-1-matrix-report.tar.gz
-```
-704K    ./Mus_0617Spleen_3RNA_LSL_matrix.tsv.gz
-5.2M    ./Mus_0617Spleen_3RNA_LSL_report.html
-```
+- output and report(5.2M): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/AccuraCode/mouse-spleen-1-matrix-report.tar.gz
+

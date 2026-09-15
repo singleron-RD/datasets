@@ -1,10 +1,12 @@
 # Singleron Datasets
 
-- [scRNA](./scrna.md)
+- [scRNA](./scRNA.md)
 - [spatial](./spatial.md)
 - [AccuraCode](./AccuraCode.md)
-- [FFPE snRNA](./ffpe.md)
-- [MobiuSCOPE](./mobiuscope.md)
+- [FFPE snRNA](./FFPE.md)
+- [MobiuSCOPE](./MobiuSCOPE.md)
 - [sCircle](./sCircle.md)
-- [FocusScope](./focuscope.md)
-- [CLIndex](./clindex.md)
+- [FocusScope](./FocusScope.md)
+- [CLIndex](./CLIndex.md)
+- [ONT](./ONT.md)
+- [scATAC](./scATAC.md)

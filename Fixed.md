@@ -4,11 +4,11 @@
 
 Sample type: FFPE tissue-derived nuclei
 
-- HTML report(5.8M): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/FFPE/mouse-thymus-FFPE-fresh/mouse-thymus_report.html
+- HTML report(5.8M): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/FFPE/mouse-thymus-FFPE/mouse-thymus_report.html
 
-- Matrix(84M): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/FFPE/mouse-thymus-FFPE-fresh/matrix.tar
+- Matrix(84M): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/FFPE/mouse-thymus-FFPE/matrix.tar
 
-- fastq(34G): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/FFPE/mouse-thymus-FFPE-fresh/fastq.tar
+- fastq(34G): https://singleronbio-opendata.oss-cn-hangzhou.aliyuncs.com/datasets/FFPE/mouse-thymus-FFPE/fastq.tar
 
 ## mouse-brain-1
 

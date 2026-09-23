@@ -3,7 +3,7 @@
 - [scRNA](./scRNA.md)
 - [spatial](./spatial.md)
 - [AccuraCode](./AccuraCode.md)
-- [FFPE snRNA](./FFPE.md)
+- [Fixed](./Fixed.md)
 - [MobiuSCOPE](./MobiuSCOPE.md)
 - [sCircle](./sCircle.md)
 - [FocusScope](./FocusScope.md)

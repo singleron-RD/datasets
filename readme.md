@@ -4,6 +4,7 @@
 - [spatial](./spatial.md)
 - [AccuraCode](./AccuraCode.md)
 - [Fixed](./Fixed.md)
+- [DynaSCOPE](./DynaSCOPE.md)
 - [MobiuSCOPE](./MobiuSCOPE.md)
 - [sCircle](./sCircle.md)
 - [FocusScope](./FocusScope.md)
